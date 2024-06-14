@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
                             'https://storage.googleapis.com/cms-storage-bucket/images/Flutter_322_16x9.width-635.png'),
                         fit: BoxFit.cover),
                     borderRadius: BorderRadius.circular(30),
-                    border: Border.all(width: 6, color: Colors.black)),
+                    border: Border.all(width: 3, color: Colors.black)),
                 child: Text(
                   'Latest Version',
                   style: TextStyle(
@@ -53,7 +53,7 @@ class MyApp extends StatelessWidget {
                             'https://storage.googleapis.com/cms-storage-bucket/images/Flutter_322_16x9.width-635.png'),
                         fit: BoxFit.cover),
                     borderRadius: BorderRadius.circular(30),
-                    border: Border.all(width: 6, color: Colors.black)),
+                    border: Border.all(width: 3, color: Colors.black)),
                 child: Text(
                   'Previos Version',
                   style: TextStyle(
@@ -76,7 +76,7 @@ class MyApp extends StatelessWidget {
                             'https://storage.googleapis.com/cms-storage-bucket/images/Flutter_322_16x9.width-635.png'),
                         fit: BoxFit.cover),
                     borderRadius: BorderRadius.circular(30),
-                    border: Border.all(width: 6, color: Colors.black)),
+                    border: Border.all(width: 3, color: Colors.black)),
                 child: Text(
                   'Old Version',
                   style: TextStyle(
